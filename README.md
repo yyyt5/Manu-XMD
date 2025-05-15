@@ -40,13 +40,13 @@ Deploy the bot and easily connect it to your WhatsApp account by Qr code. Click 
 
 <div align="center">
   <a href="https://manu-md-session-gen.up.railway.app/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://manu-md-session-gen.onrender.com/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
   </a>
 </div>
 
