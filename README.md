@@ -39,7 +39,7 @@ Click the button below to fork the Manu-MD Bot repository to your GitHub account
 Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR Qr code. Click the button below to get your Pair Code OR Qr code.
 
 ### Pair Webs 🔢
-br
+<br>
 <div align="center">
   <a href="https://manu-md-session-gen.up.railway.app/pair">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
@@ -59,7 +59,7 @@ br
   </a>
 </div>
 
-br
+<br>
 
 ### Qr Webs 🖨
 br
