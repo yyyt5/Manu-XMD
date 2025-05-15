@@ -62,7 +62,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 <br>
 
 ### Qr Webs 🖨
-br
+<br>
 <div align="center">
   <a href="https://manu-md-session-gen.up.railway.app/qr">
     <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
