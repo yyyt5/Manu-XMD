@@ -44,9 +44,16 @@ Deploy the bot and easily connect it to your WhatsApp account by Qr code. Click 
   </a>
 </div>
 
+
+<div align="center">
+  <a href="https://used-harlene-manul-abb63bcc.koyeb.app/qr">
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
+  </a>
+</div>
+
 <div align="center">
   <a href="https://manu-md-session-gen.onrender.com/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Qr Code 3"/>
   </a>
 </div>
 
