@@ -32,12 +32,37 @@ Click the button below to fork the Manu-MD Bot repository to your GitHub account
 
 ---
 
-### Step 2: Get Qr Code And Scan ( Do Not Use Business Whatsapp, if you use business whatsapp you can't see buttons and commands !!!)
+### Step 2: Get Pair Code OR Qr Code ( Do Not Use Business Whatsapp, if you use business whatsapp you can't see buttons and commands !!!)
 ### Business Whatsapp වලින් බොට් හදන්න එපා ( බොට්ගෙ බටන් වැඩ නෑ...!!! )
 ### Normal Whatsapp Yse කරන්න...❤
 
-Deploy the bot and easily connect it to your WhatsApp account by Qr code. Click the button below to get your Qr code.
+Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR Qr code. Click the button below to get your Pair Code OR Qr code.
 
+### Pair Webs 🔢
+br
+<div align="center">
+  <a href="https://manu-md-session-gen.up.railway.app/pair">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://used-harlene-manul-abb63bcc.koyeb.app/pair">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Pair Code 2"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://manu-md-session-gen.onrender.com/pair">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Pair Code 3"/>
+  </a>
+</div>
+
+br
+
+### Qr Webs 🖨
+br
 <div align="center">
   <a href="https://manu-md-session-gen.up.railway.app/qr">
     <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
