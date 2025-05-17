@@ -41,7 +41,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Pair Webs 🔢
 <br>
 <div align="center">
-  <a href="https://manu-md-session-genx-69f600658e29.herokuapp.com/pair">
+  <a href="manu-md-session-gen.up.railway.app/pair">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
   </a>
 </div>
@@ -64,7 +64,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Qr Webs 🖨
 <br>
 <div align="center">
-  <a href="https://manu-md-session-genx-69f600658e29.herokuapp.com/qr">
+  <a href="manu-md-session-gen.up.railway.app/qr">
     <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
   </a>
 </div>
