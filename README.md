@@ -42,20 +42,20 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 <br>
 <div align="center">
   <a href="manu-md-session-gen.up.railway.app/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
   </a>
 </div>
 
 
 <div align="center">
   <a href="https://marxist-anna-maria-manul-5f7b0ac3.koyeb.app/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Pair Code 2"/>
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web 2-success?style=for-the-badge" alt="Get Your Pair Code 2"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://manu-md-session-gen.onrender.com/pair">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Pair Code 3"/>
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web 3-success?style=for-the-badge" alt="Get Your Pair Code 3"/>
   </a>
 </div>
 
@@ -65,20 +65,20 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 <br>
 <div align="center">
   <a href="manu-md-session-gen.up.railway.app/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
   </a>
 </div>
 
 
 <div align="center">
   <a href="https://marxist-anna-maria-manul-5f7b0ac3.koyeb.app/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web 2-success?style=for-the-badge" alt="Get Your Qr Code 2"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://manu-md-session-gen.onrender.com/qr">
-    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web3-success?style=for-the-badge" alt="Get Your Qr Code 3"/>
+    <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web 3-success?style=for-the-badge" alt="Get Your Qr Code 3"/>
   </a>
 </div>
 
